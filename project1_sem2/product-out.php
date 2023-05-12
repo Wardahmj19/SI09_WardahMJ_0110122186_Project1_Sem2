@@ -144,9 +144,11 @@
           </li> 
         </ul>
         <br>
+          <div class="row">
             <div class="col-sm-12">
                 <a href="checkout.php" class="filled-button pull-right">BUY</a>
             </div>
+          </div>
       </div>
     </div>
 
