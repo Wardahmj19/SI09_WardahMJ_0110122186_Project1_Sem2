@@ -175,8 +175,8 @@
                         <?php
                             $button = (empty($idedit)) ? "Simpan":"Update"; 
                         ?>
-                          <input type="submit" name="submit" type="submit" 
-                          class="btn btn-primary pull-right" value="<?=$button?>"/>
+                          <button type="submit" name="submit" type="submit" 
+                            class="filled-button pull-right" value="<?=$button?>">Update</button>
                           <input type="hidden" name="idedit" value="<?=$idedit?>"/>
                    </div>
               </form>

@@ -168,7 +168,7 @@
                    </div>
 
                    <div class="clearfix">
-                         <input type="submit" name="submit" type="submit" class="btn btn-primary pull-left" value="Simpan">
+                         <button type="submit" name="submit" class="filled-button pull-left" value="Simpan">Finish</button>
                          <a href="payment.php"><button type="button" class="filled-button pull-right">Payment</button></a>
                    </div>
               </form>

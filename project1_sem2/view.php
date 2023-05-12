@@ -127,7 +127,7 @@
               </tbody>
           </table>
           <div class="clearfix">
-              <a href="kelolaProduk.php"><button type="button" class="btn btn-primary pull-right">Back</button></a>
+              <a href="kelolaProduk.php" class="filled-button pull-right">Back</a>
           </div>
         </div>
       </div>
